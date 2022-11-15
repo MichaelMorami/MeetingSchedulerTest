@@ -65,3 +65,5 @@ Now that you've fixed the problem with the rule, does it make sense that the con
 
 
 This is an addition after the bare clone 
+
+This is a try after a PR on the private repo
