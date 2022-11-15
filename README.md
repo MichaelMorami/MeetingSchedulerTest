@@ -62,3 +62,6 @@ See General Hints 1 + 2 for more help on that.
 <summary>Hint 2:</summary>
 Now that you've fixed the problem with the rule, does it make sense that the condition fails on <code>joinMeeting</code>?
 </details>
+
+
+This is an addition after the bare clone 
